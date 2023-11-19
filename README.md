@@ -1,4 +1,4 @@
-# Dark_Triad_Detaction
+# Dark Triad Detaction
 This data was collected with an interactive version of the Short Dark Triad (see Paulhus, D. L., & Jones, D. N. (2011, January). Introducing a short measure of the Dark Triad. Poster presented at the meeting of the Society for Personality and Social Psychology, San Antonio.).
 
 Only participants who indicated that their answers were accurate and agreed to allow their data to be used for research are included.
